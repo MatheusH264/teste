@@ -2,27 +2,33 @@
     "robos": [
         {
             "nome": "BBNet",
-            "arquivo": "bbnnet.exe"
+            "arquivo": "bbnnet.exe",
+            "url": "https://github.com/MatheusH264/robo-gerenciador/releases/download/v1.3/bbnet.exe"
         },
         {
             "nome": "BLL",
-            "arquivo": "bll.exe"
+            "arquivo": "bll.exe",
+            "url": "https://github.com/MatheusH264/robo-gerenciador/releases/download/v1.3/bll.exe"
         },
         {
             "nome": "BNC",
-            "arquivo": "bnc.exe"
+            "arquivo": "bnc.exe",
+            "url": "https://github.com/MatheusH264/robo-gerenciador/releases/download/v1.3/bnc.exe"
         },
         {
             "nome": "Licitanet",
-            "arquivo": "licitanet.exe"
+            "arquivo": "licitanet.exe",
+            "url": "https://github.com/MatheusH264/robo-gerenciador/releases/download/v1.3/licitanet.exe"
         },
         {
             "nome": "PNCP",
-            "arquivo": "pncp.exe"
+            "arquivo": "pncp.exe",
+            "url": "https://github.com/MatheusH264/robo-gerenciador/releases/download/v1.3/pncp.exe"
         },
         {
             "nome": "PCP",
-            "arquivo": "pcp.exe"
+            "arquivo": "pcp.exe",
+            "url": "https://github.com/MatheusH264/robo-gerenciador/releases/download/v1.3/pcp.exe"
         }
     ]
 }
