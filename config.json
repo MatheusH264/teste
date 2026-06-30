@@ -42,6 +42,12 @@
             "arquivo": "gov.exe",
             "url": "https://github.com/MatheusH264/robo-gerenciador/releases/download/v1.3/gov.exe",
             "api": false
+        },
+        {
+            "nome": "ConLicitação",
+            "arquivo": "conline.exe",
+            "url": "https://github.com/MatheusH264/robo-gerenciador/releases/download/v1.3/conline.exe",
+            "api": false
         }
     ]
 }
