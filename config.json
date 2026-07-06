@@ -48,6 +48,12 @@
             "arquivo": "conline.exe",
             "url": "https://github.com/MatheusH264/robo-gerenciador/releases/download/v1.3/conline.exe",
             "api": false
-        }
+        },
+        {
+            "nome": "AMM",
+            "arquivo": "amm.exe",
+            "url": "https://github.com/MatheusH264/robo-gerenciador/releases/download/v1.3/amm.exe",
+            "api": false
+        }    
     ]
 }
